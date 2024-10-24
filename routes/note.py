@@ -11,7 +11,6 @@ templates = Jinja2Templates(directory="templates")
 
 @note.get("/", response_class=HTMLResponse)
 async def read_item(request: Request):
-    print("hi")
     try:
         docs = notescollection.find()  # Fetch all documents
         newDocs = []
