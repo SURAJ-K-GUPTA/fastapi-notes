@@ -25,8 +25,8 @@ Before you begin, make sure you have the following installed on your system:
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/fast-api-note-add.git
-cd fast-api-note-add
+git clone https://github.com/SURAJ-K-GUPTA/fastapi-notes.git
+cd fastapi-notes
 ```
 
 ### Step 2: Set Up a Virtual Environment
