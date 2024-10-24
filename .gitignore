@@ -33,7 +33,6 @@ ENV/
 
 # FastAPI specific
 # Exclude static files generated at runtime
-static/
 
 # dotenv environment variables file
 .env
